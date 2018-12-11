@@ -1,0 +1,10 @@
+C:\Luiza\RPGProject\RpgProject\RpgProject\bin\Debug\RpgProject.exe.config
+C:\Luiza\RPGProject\RpgProject\RpgProject\bin\Debug\RpgProject.exe
+C:\Luiza\RPGProject\RpgProject\RpgProject\bin\Debug\RpgProject.pdb
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.csprojResolveAssemblyReference.cache
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.MainMenu.resources
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.Properties.Resources.resources
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.csproj.GenerateResource.Cache
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.exe
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.pdb
+C:\Luiza\RPGProject\RpgProject\RpgProject\obj\Debug\RpgProject.FormCharacterCreator.resources
