@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RpgProject.CharacterClasses
 {
-    public class Rogue
+    public class CommonWarrior
     {
-        public Rogue() : base()
+        public CommonWarrior() : base()
         {
 
         }
